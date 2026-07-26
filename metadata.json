@@ -1,0 +1,6 @@
+{
+  "name": "우리반 전자 독서기록장",
+  "description": "초·중·고등학교 학급을 위한 전자 독서기록장 및 이달의 독서왕, 교사 대시보드 애플리케이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
